@@ -1,0 +1,1 @@
+main(){}//shotest code in cpp
